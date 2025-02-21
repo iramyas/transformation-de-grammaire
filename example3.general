@@ -1,0 +1,4 @@
+S0 : A0 | B0
+A0 : C0 a A0 | C0 a C0 | E
+B0 : C0 b B0 | C0 b C0
+C0 : a C0 b C0 | b C0 a C0 | E
